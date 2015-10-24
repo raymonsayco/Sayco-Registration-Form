@@ -1,0 +1,22 @@
+body {
+	font-family: calibri;
+}
+
+table, td {
+	border: solid 1px;
+}
+
+td {
+	padding: 10px;
+}
+
+textarea {
+	min-height: 100px;
+	max-height: 100px;
+	min-width: 100%;
+	max-width: 500px;
+}
+
+.buttonSubmit {
+	
+}
